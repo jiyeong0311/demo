@@ -16,6 +16,7 @@
     <input type="number" name="num1">
     <input type="number" name="num2">
     <button type="submit">SEND</button>
+    <button type="submit">SEND</button>
 
 
 
