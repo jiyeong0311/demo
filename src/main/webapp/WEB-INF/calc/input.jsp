@@ -12,13 +12,10 @@
 </head>
 <body>
 
-<form>
+<form action="/calc/makeResult" method="post">
     <input type="number" name="num1">
     <input type="number" name="num2">
     <button type="submit">SEND</button>
-
-
-
 </form>
 
 </body>

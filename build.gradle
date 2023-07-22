@@ -25,6 +25,8 @@ dependencies {
     implementation 'org.jetbrains:annotations:24.0.0'
     compileOnly('javax.servlet:javax.servlet-api:4.0.1')
 
+    implementation 'org.springframework.boot:spring-boot-devtools'
+
     testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
 }
